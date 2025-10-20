@@ -1,11 +1,11 @@
 # Instrucciones de Ejecución de cada parte de la tarea:
 
-    Parte 1: Esta parte consta de 3 algoritmos que implementan una solución al mismo problema. 
+    Parte 1: Esta parte consta de 3 algoritmos que implementan una solución al mismo problema.
     
         A tener en cuenta: Todos los archivos de entrada .txt deben estar en la misma carpeta que el archivo .py en cuestión
 
         1. Ubicarse en la carpeta /Parte 1:
-        2. Ejecutar el siguiente comando: 
+        2. Ejecutar el siguiente comando:
 
             python parte_1.py <algoritmo> <archivo.txt>
 
@@ -16,12 +16,12 @@
 
 # ---------------------------------------------------------------------------------------------------------------------------
 
-    Parte 2: 
+    Parte 2:
 
         A tener en cuenta: Todos los archivos de entrada .txt deben estar en la misma carpeta que el archivo .py en cuestión
 
         1. Ubicarse en la carpeta /Parte 2:
-        2. Ejecutar el siguiente comando: 
+        2. Ejecutar el siguiente comando:
 
             python particiones_BFS.py <archivo.txt>
 
